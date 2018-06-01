@@ -25,7 +25,7 @@ First, run npm install on the Food_Delivery_App folder to get the node_modules f
 Next run the application
 
 ```
-npm start
+> npm start
 ```
 
 ## Running the tests
